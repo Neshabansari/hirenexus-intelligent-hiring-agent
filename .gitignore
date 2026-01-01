@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# Local testing / debug files
+test_gemini.py
+check_models.py
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
