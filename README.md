@@ -135,7 +135,6 @@ Traditional resume screening is often:
 
 ##  Outputs (Application Walkthrough)
 
-> **Note:** This project is intentionally not deployed.  
 > Screenshots below demonstrate complete functionality.
 
 ###  Home & Role Selection
