@@ -133,7 +133,7 @@ Traditional resume screening is often:
 - Cloud deployment with Docker
 
 
-##  Screenshots (Application Walkthrough)
+##  Outputs (Application Walkthrough)
 
 > **Note:** This project is intentionally not deployed.  
 > Screenshots below demonstrate complete functionality.
